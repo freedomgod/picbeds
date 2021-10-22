@@ -1,0 +1,19 @@
+{
+  "name": "picbeds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freedomgod/picbeds.git"
+  },
+  "author": "whfree",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freedomgod/picbeds/issues"
+  },
+  "homepage": "https://github.com/freedomgod/picbeds#readme"
+}
