@@ -9,3 +9,6 @@ npm version patch
 git push
 ```
 
+图片引用方式：
+
+`https://cdn.jsdelivr.net/gh/freedomgod/picbeds/[file-path]`
